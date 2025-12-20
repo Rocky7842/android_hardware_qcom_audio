@@ -281,6 +281,11 @@ enum {
 
     /*In Car Communication Usecase*/
     USECASE_ICC_CALL,
+
+    /* Elliptic Ultrasound */
+    USECASE_AUDIO_ULTRASOUND_OUTPUT,
+    USECASE_AUDIO_ULTRASOUND_INPUT,
+
     AUDIO_USECASE_MAX
 };
 
